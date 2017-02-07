@@ -1,0 +1,30 @@
+body {
+    font-family: OPTIBelwe-Medium;
+    vertical-align: top;
+}
+
+
+td {
+    font-family: OPTIBelwe-Medium;
+    vertical-align: top;
+}
+
+
+table {
+    font-family: OPTIBelwe-Medium;
+    margin-bottom: 18px;
+}
+
+
+button {
+    font-family: OPTIBelwe-Medium;
+    font-size: 30px;
+}
+select {
+    font-family: OPTIBelwe-Medium;
+}
+
+div {
+    font-family: OPTIBelwe-Medium;
+    margin: 10px 0px;
+}
