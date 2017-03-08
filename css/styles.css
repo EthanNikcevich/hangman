@@ -1,6 +1,7 @@
 body {
     font-family: OPTIBelwe-Medium;
     vertical-align: top;
+    background-image: url("file:///Users/h205p3/Desktop/empty.jpeg");
 }
 
 
@@ -27,4 +28,33 @@ select {
 div {
     font-family: OPTIBelwe-Medium;
     margin: 10px 0px;
+}
+
+#empty {
+    height: 200px;
+
+}
+#head {
+    height: 200px;
+
+}
+#body {
+    height: 200px;
+
+}
+#rightarm {
+    height: 200px;
+
+}
+#leftarm {
+    height: 200px;
+
+}
+#rightleg {
+    height: 200px;
+
+}
+#leftleg {
+    height: 200px;
+
 }
